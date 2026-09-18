@@ -1,9 +1,22 @@
+🎓 3rd-year Computer Science student @ Université Gustave Eiffel (Champs-sur-Marne)
+☕ Java developer
+
+---
+
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+
+# 🚀 Projects
+
+## Minecraft
+- **PaperDispatch** - Brigadier-based command library for Paper/Folia plugins
+- **CraftEngineConverter** - Converts Nexo / ItemsAdder configurations to CraftEngine format
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=1robie&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
